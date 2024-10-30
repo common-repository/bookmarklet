@@ -1,0 +1,159 @@
+div.wrapit {
+	max-width: 680px;
+	font-weight: normal;
+	font-family:arial, sans-serif;
+	font-size:14px;
+	margin:0 0 0 25px;
+}
+
+h2.bookmarklet {
+	padding-left: 18px;
+	font-family:georgia, serif;
+	font-weight:normal;
+	font-size:22px;
+	font-style:italic;
+}
+label.title, span.title {
+	font-weight: bold;
+	font-size:16px;
+	font-family:tahoma, arial, sans-serif;
+}
+span.title {
+	position: absolute;
+}
+div.in1 {
+	margin: 40px 0;
+}
+div.in2 {
+	margin:0;
+	padding:22px 0;
+}
+.iconator {
+	width: 640px;
+}
+.iconator h2 {
+	font-weight: bold;
+	font-size:16px;
+}
+.iconator label {
+	background-image: url('../images/a.png');
+	background-repeat: no-repeat;
+	width: 44px;
+	height: 31px;
+	float: left;
+	margin: 12px 2px;
+	cursor: move;
+}
+.iconator input {
+	width: 40px;
+	margin: 0 auto;
+	bottom: -31px;
+	position: relative;
+}
+label.bookmarklet-twitter {
+    background: url("../images/twitter.png") no-repeat top !important;
+}
+label.bookmarklet-tumblr {
+    background: url("../images/tumblr.png") no-repeat top !important;
+}
+label.bookmarklet-technorati {
+    background: url("../images/technorati.png") no-repeat top !important;
+}
+label.bookmarklet-stumbleupon {
+    background: url("../images/stumbleupon.png") no-repeat top !important;
+}
+label.bookmarklet-comfeed {
+    background: url("../images/rss.png") no-repeat top !important;
+}
+label.bookmarklet-reddit {
+    background: url("../images/reddit.png") no-repeat top !important;
+}
+label.bookmarklet-google-plus {
+    background: url("../images/google-plus.png") no-repeat top !important;
+}
+label.bookmarklet-google {
+    background: url("../images/google-bookmark.png") no-repeat top !important;
+}
+label.bookmarklet-friendfeed {
+    background: url("../images/friendfeed.png") no-repeat top !important;
+}
+label.bookmarklet-facebook {
+    background: url("../images/facebook.png") no-repeat top !important;
+}
+label.bookmarklet-mail {
+    background: url("../images/mail.png") no-repeat top !important;
+}
+label.bookmarklet-digg {
+    background: url("../images/digg.png") no-repeat top !important;
+}
+label.bookmarklet-designfloat {
+    background: url("../images/designfloat.png") no-repeat top !important;
+}
+label.bookmarklet-delicious {
+    background: url("../images/delicious.png") no-repeat top !important;
+}
+label.bookmarklet-linkedin {
+    background: url("../images/linkedin.png") no-repeat top !important;
+}
+label.bookmarklet-myspace {
+    background: url("../images/myspace.png") no-repeat top !important;
+}
+label.bookmarklet-newsvine {
+    background: url("../images/newsvine.png") no-repeat top !important;
+}
+label.bookmarklet-pinterest {
+    background: url("../images/pinterest.png") no-repeat top !important;
+}
+label.bookmarklet-furl {
+    background: url("../images/furl.png") no-repeat top !important;
+}
+label.bookmarklet-addthis {
+    background: url("../images/addthis.png") no-repeat top !important;
+}
+label.bookmarklet-orkut {
+    background: url("../images/orkut.png") no-repeat top !important;
+}
+label.bookmarklet-diigo {
+    background: url("../images/diigo.png") no-repeat top !important;
+}
+label.bookmarklet-blinklist {
+    background: url("../images/blinklist.png") no-repeat top !important;
+}
+label.bookmarklet-yahoo-buzz {
+    background: url("../images/yahoo-buzz.png") no-repeat top !important;
+}
+label.bookmarklet-bebo {
+    background: url("../images/bebo.png") no-repeat top !important;
+}
+.share-bookmarklet {
+	width:140px;
+	height:50px;
+	display:block;
+	background:url('../images/share-enjoy.png') no-repeat left top;
+}
+.share-care {
+	width:140px;
+	height:50px;
+	display:block;
+	background:url('../images/share-love-hearts.png') no-repeat left top;
+}
+input#bgimg-bookmarklet {
+	left:10px;
+	position:relative;
+	top:58px;
+}
+input#bgimg-caring {
+	left:10px;
+	position:relative;
+	top:58px;	
+}
+input#bgimg-none {
+	left:10px;
+	position:relative;
+	top:58px;	
+}
+.clear {
+	clear:both;
+	height:20px;
+	width:100%;
+}

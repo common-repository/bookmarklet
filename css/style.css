@@ -1,0 +1,176 @@
+div.bookmarklet-bookmarks {
+}
+
+div.bookmarklet-bookmarks ul.socials {
+	width:100% !important;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+div.bookmarklet-bookmarks ul.socials li {
+	display:inline !important;
+	float:left !important;
+	list-style-type:none !important;
+	margin:0 !important;
+	height:22px !important;
+	width:41px !important;
+	cursor:pointer !important;
+	padding:0 !important;
+}
+
+div.bookmarklet-bookmarks ul.socials a {
+	display:block !important;
+	width:41px !important;
+	height:23px !important;
+	text-indent: -9999px !important;
+}
+.bookmarklet-twitter {
+    background: url("../images/twitter.png") no-repeat bottom !important;
+}
+.bookmarklet-twitter:hover {
+    background: url("../images/twitter.png") no-repeat top !important;
+}
+.bookmarklet-tumblr {
+    background: url("../images/tumblr.png") no-repeat bottom !important;
+}
+.bookmarklet-tumblr:hover {
+    background: url("../images/tumblr.png") no-repeat top !important;
+}
+.bookmarklet-technorati {
+    background: url("../images/technorati.png") no-repeat bottom !important;
+}
+.bookmarklet-technorati:hover {
+    background: url("../images/technorati.png") no-repeat top !important;
+}
+.bookmarklet-stumbleupon {
+    background: url("../images/stumbleupon.png") no-repeat bottom !important;
+}
+.bookmarklet-stumbleupon:hover {
+    background: url("../images/stumbleupon.png") no-repeat top !important;
+}
+.bookmarklet-comfeed {
+    background: url("../images/rss.png") no-repeat bottom !important;
+}
+.bookmarklet-comfeed:hover {
+    background: url("../images/rss.png") no-repeat top !important;
+}
+.bookmarklet-reddit {
+    background: url("../images/reddit.png") no-repeat bottom !important;
+}
+.bookmarklet-reddit:hover {
+    background: url("../images/reddit.png") no-repeat top !important;
+}
+.bookmarklet-google-plus {
+    background: url("../images/google-plus.png") no-repeat bottom !important;
+}
+.bookmarklet-google-plus:hover {
+    background: url("../images/google-plus.png") no-repeat top !important;
+}
+.bookmarklet-google {
+    background: url("../images/google-bookmark.png") no-repeat bottom !important;
+}
+.bookmarklet-google:hover {
+    background: url("../images/google-bookmark.png") no-repeat top !important;
+}
+.bookmarklet-friendfeed {
+    background: url("../images/friendfeed.png") no-repeat bottom !important;
+}
+.bookmarklet-friendfeed:hover {
+    background: url("../images/friendfeed.png") no-repeat top !important;
+}
+.bookmarklet-facebook {
+    background: url("../images/facebook.png") no-repeat bottom !important;
+}
+.bookmarklet-facebook:hover {
+    background: url("../images/facebook.png") no-repeat top !important;
+}
+.bookmarklet-mail {
+    background: url("../images/mail.png") no-repeat bottom !important;
+}
+.bookmarklet-mail:hover {
+    background: url("../images/mail.png") no-repeat top !important;
+}
+.bookmarklet-digg {
+    background: url("../images/digg.png") no-repeat bottom !important;
+}
+.bookmarklet-digg:hover {
+    background: url("../images/digg.png") no-repeat top !important;
+}
+.bookmarklet-designfloat {
+    background: url("../images/designfloat.png") no-repeat bottom !important;
+}
+.bookmarklet-designfloat:hover {
+    background: url("../images/designfloat.png") no-repeat top !important;
+}
+.bookmarklet-delicious {
+    background: url("../images/delicious.png") no-repeat bottom !important;
+}
+.bookmarklet-delicious:hover {
+    background: url("../images/delicious.png") no-repeat top !important;
+}
+.bookmarklet-linkedin {
+    background: url("../images/linkedin.png") no-repeat bottom !important;
+}
+.bookmarklet-linkedin:hover {
+    background: url("../images/linkedin.png") no-repeat top !important;
+}
+.bookmarklet-myspace {
+    background: url("../images/myspace.png") no-repeat bottom !important;
+}
+.bookmarklet-myspace:hover {
+    background: url("../images/myspace.png") no-repeat top !important;
+}
+.bookmarklet-newsvine {
+    background: url("../images/newsvine.png") no-repeat bottom !important;
+}
+.bookmarklet-newsvine:hover {
+    background: url("../images/newsvine.png") no-repeat top !important;
+}
+.bookmarklet-pinterest {
+    background: url("../images/pinterest.png") no-repeat bottom !important;
+}
+.bookmarklet-pinterest:hover {
+	background:url('../images/pinterest.png') no-repeat top !important;
+}
+.bookmarklet-furl {
+    background: url("../images/furl.png") no-repeat bottom !important;
+}
+.bookmarklet-furl:hover {
+    background: url("../images/furl.png") no-repeat top !important;
+}
+.bookmarklet-addthis {
+    background: url("../images/addthis.png") no-repeat bottom !important;
+}
+.bookmarklet-addthis:hover {
+    background: url("../images/addthis.png") no-repeat top !important;
+}
+.bookmarklet-orkut {
+    background: url("../images/orkut.png") no-repeat bottom !important;
+}
+.bookmarklet-orkut:hover {
+    background: url("../images/orkut.png") no-repeat top !important;
+}
+.bookmarklet-diigo {
+    background: url("../images/diigo.png") no-repeat bottom !important;
+}
+.bookmarklet-diigo:hover {
+    background: url("../images/diigo.png") no-repeat top !important;
+}
+.bookmarklet-blinklist {
+    background: url("../images/blinklist.png") no-repeat bottom !important;
+}
+.bookmarklet-blinklist:hover {
+    background: url("../images/blinklist.png") no-repeat top !important;
+}
+.bookmarklet-yahoo-buzz {
+    background: url("../images/yahoo-buzz.png") no-repeat bottom !important;
+}
+.bookmarklet-yahoo-buzz:hover {
+    background: url("../images/yahoo-buzz.png") no-repeat top !important;
+}
+.bookmarklet-bebo {
+    background: url("../images/bebo.png") no-repeat bottom !important;
+}
+.bookmarklet-bebo:hover {
+    background: url("../images/bebo.png") no-repeat top !important;
+}
